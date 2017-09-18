@@ -1,0 +1,52 @@
+[_tb_system_call storage=system/_005.ks]
+
+[cm  ]
+[bg  time="1000"  method="crossfade"  storage="room.jpg"  ]
+[live2d_show  name="shizuku"  scale="1"  time="1000"  left="-1"  top="-196"  ]
+[live2d_motion  name="shizuku"  filenm="pinchOut03.mtn"  ]
+[tb_show_message_window  ]
+[tb_start_text mode=1 ]
+Se escucha muy bien. Creo que es muy importante que se conserven los espacios forestales para la correcta conservación de la flora y la fauna; y también se puede invertir tiempo y dinero en la recuperación de estos espacios.[p]
+[_tb_end_text]
+
+[tb_start_text mode=1 ]
+¿Pero entonces cuales son los problemas?[p]
+[_tb_end_text]
+
+[tb_start_text mode=1 ]
+Creo que los problemas vienen de un poco antes...[p]
+[_tb_end_text]
+
+[tb_hide_message_window  ]
+[live2d_hide  name="shizuku"  time="1000"  ]
+[bg  time="1000"  method="crossfade"  storage="fondos/nevado_6.jpg"  ]
+[tb_image_show  time="1000"  storage="default/laminas/verde_004.jpg"  width="900"  height="600"  x="22"  y="18"  _clickable_img=""  name="img_11"  ]
+[tb_start_text mode=1 ]
+hola[p]
+[_tb_end_text]
+
+[tb_image_hide  time="1000"  ]
+[tb_image_show  time="1000"  storage="default/laminas/verde_005.jpg"  width="900"  height="600"  x="27"  y="16"  _clickable_img=""  name="img_14"  ]
+[tb_start_text mode=1 ]
+hola[p]
+[_tb_end_text]
+
+[tb_image_hide  time="1000"  ]
+[tb_image_show  time="1000"  storage="default/laminas/verde_006.jpg"  width="900"  height="600"  x="27"  y="18"  _clickable_img=""  name="img_17"  ]
+[tb_start_text mode=1 ]
+hola[p]
+[_tb_end_text]
+
+[tb_image_show  time="1000"  storage="default/laminas/verde_007.jpg"  width="900"  height="600"  x="27"  y="9"  _clickable_img=""  name="img_19"  ]
+[tb_start_text mode=1 ]
+hola[p]
+[_tb_end_text]
+
+[tb_image_hide  time="1000"  ]
+[tb_image_show  time="1000"  storage="default/laminas/verde_008.jpg"  width="900"  height="600"  x="27"  y="17"  _clickable_img=""  ]
+[tb_start_text mode=1 ]
+hola[p]
+[_tb_end_text]
+
+[tb_image_hide  time="1000"  ]
+[jump  storage="006.ks"  target=""  ]

@@ -1,0 +1,48 @@
+[_tb_system_call storage=system/_007.ks]
+
+[cm  ]
+[bg  time="1000"  method="crossfade"  storage="fondos/Nevado-de-Toluca-820x510.jpg"  ]
+[tb_image_show  time="1000"  storage="default/laminas/verde_013.jpg"  width="900"  height="600"  name="img_2"  x="25"  y="15"  _clickable_img=""  ]
+[tb_start_text mode=1 ]
+hola[p]
+[_tb_end_text]
+
+[tb_image_hide  time="1000"  ]
+[tb_image_show  time="1000"  storage="default/laminas/verde_014.jpg"  width="900"  height="600"  x="34"  y="18"  _clickable_img=""  name="img_5"  ]
+[tb_start_text mode=1 ]
+hola[p]
+[_tb_end_text]
+
+[tb_image_hide  time="1000"  ]
+[bg  time="1000"  method="crossfade"  storage="fondos/Faldas_Nevado_Toluca-2-e1477922127220.jpg"  ]
+[tb_image_show  time="1000"  storage="default/laminas/verde_015.jpg"  width="900"  height="600"  x="25"  y="16"  _clickable_img=""  name="img_9"  ]
+[tb_start_text mode=1 ]
+hola[p]
+[_tb_end_text]
+
+[tb_image_hide  time="1000"  ]
+[tb_image_show  time="1000"  storage="default/laminas/verde_016.jpg"  width="900"  height="600"  x="27"  y="15"  _clickable_img=""  name="img_12"  ]
+[tb_start_text mode=1 ]
+hola[p]
+[_tb_end_text]
+
+[tb_image_hide  time="1000"  ]
+[tb_image_show  time="1000"  storage="default/laminas/verde_017.jpg"  width="900"  height="600"  x="23"  y="14"  _clickable_img=""  name="img_15"  ]
+[tb_start_text mode=1 ]
+hola[p]
+[_tb_end_text]
+
+[tb_image_hide  time="1000"  ]
+[tb_image_show  time="1000"  storage="default/laminas/verde_018.jpg"  width="900"  height="600"  x="28"  y="12"  _clickable_img=""  name="img_18"  ]
+[tb_start_text mode=1 ]
+hola[p]
+[_tb_end_text]
+
+[tb_image_hide  time="1000"  ]
+[tb_image_show  time="1000"  storage="default/laminas/verde_019.jpg"  width="900"  height="600"  x="30"  y="18"  _clickable_img=""  ]
+[tb_start_text mode=1 ]
+hola[p]
+[_tb_end_text]
+
+[tb_image_hide  time="1000"  ]
+[jump  storage="008.ks"  target=""  ]

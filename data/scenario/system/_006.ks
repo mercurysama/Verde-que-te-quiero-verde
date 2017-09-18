@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/schoolgate-day.jpg"  ]
+[preload  storage="./data/bgimage/fondos/Faldas_Nevado_Toluca-2-e1477922127220.jpg"  ]
+[preload  storage="./data/fgimage/default/laminas/verde_009.jpg"  ]
+[preload  storage="./data/fgimage/default/laminas/verde_010.jpg"  ]
+[preload  storage="./data/fgimage/default/laminas/verde_011.jpg"  ]
+[preload  storage="./data/fgimage/default/laminas/verde_012.jpg"  ]
+[preload  storage="./data/bgimage/rouka.jpg"  ]
+[return]

@@ -1,0 +1,43 @@
+[_tb_system_call storage=system/_008.ks]
+
+[cm  ]
+[bg  time="1000"  method="crossfade"  storage="schoo-library-daytime.jpg"  ]
+[live2d_motion  name="shizuku"  filenm="flickHead03.mtn"  ]
+[live2d_show  name="shizuku"  scale="1"  time="1000"  left="-261"  top="-156"  ]
+[tb_show_message_window  ]
+[tb_start_text mode=1 ]
+pero todavía hay voces que estan en contra de estas acciones.[p]
+[_tb_end_text]
+
+[tb_start_text mode=1 ]
+y están tratando de poner un alto...[p]
+[_tb_end_text]
+
+[tb_hide_message_window  ]
+[live2d_hide  name="shizuku"  time="1000"  ]
+[bg  time="1000"  method="crossfade"  storage="fondos/nevado_4.jpg"  ]
+[tb_image_show  time="1000"  storage="default/laminas/verde_020.jpg"  width="900"  height="600"  x="27"  y="18"  _clickable_img=""  name="img_10"  ]
+[tb_start_text mode=1 ]
+holla[p]
+[_tb_end_text]
+
+[tb_image_hide  time="1000"  ]
+[tb_image_show  time="1000"  storage="default/laminas/verde_021.jpg"  width="900"  height="600"  x="25"  y="19"  _clickable_img=""  name="img_13"  ]
+[tb_start_text mode=1 ]
+hola[p]
+[_tb_end_text]
+
+[tb_image_hide  time="1000"  ]
+[tb_image_show  time="1000"  storage="default/laminas/verde_022.jpg"  width="900"  height="600"  x="26"  y="23"  _clickable_img=""  name="img_16"  ]
+[tb_start_text mode=1 ]
+hola[p]
+[_tb_end_text]
+
+[tb_image_hide  time="1000"  ]
+[tb_image_show  time="1000"  storage="default/laminas/verde_023.jpg"  width="900"  height="600"  x="27"  y="16"  _clickable_img=""  ]
+[tb_start_text mode=1 ]
+hola[p]
+[_tb_end_text]
+
+[tb_image_hide  time="1000"  ]
+[jump  storage="009.ks"  target=""  ]
